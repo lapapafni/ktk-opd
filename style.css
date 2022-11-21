@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    color: white;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background: rgb(51, 50, 54);
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+header {
+    display: block; 
+    height: 100px;
+    background: rgb(61, 60, 63);
+}
+
+li{
+    display: inline-flex;
+    list-style-type: none;
+}
+
+ul.hr {
+    margin: 0; 
+    padding: 37px; 
+   }
+
+   ul.hr .link {
+    display: inline; 
+    margin-right: 20px; 
+    padding: 3px; 
+    font-size: 25px;
+    margin-bottom: 10px;
+   }
+
+main{
+    text-align: center;
+}
+
+.info{
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+
+footer{
+    background: black;
+    height: 200px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+
